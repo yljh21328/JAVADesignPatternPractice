@@ -7,7 +7,7 @@ public class Food {
     Chef chef;
 
     public Food() {
-        // 聘請阿基師來主菜
+        // 聘請阿基師來煮菜
         this.chef = new AJ();
     }
 

@@ -6,7 +6,7 @@ public class Food {
     Chef chef;
 
     public Food(Chef chef) {
-        // 聘請一個廚師來主菜, 誰煮不重要。
+        // 聘請一個廚師來煮菜, 誰煮不重要。
         this.chef = chef;
     }
 

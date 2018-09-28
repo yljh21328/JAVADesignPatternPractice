@@ -7,7 +7,7 @@ public class Food {
     Chef chef;
 
     public Food() {
-        // 換詹姆士來主菜
+        // 換詹姆士來煮菜
         // 換一個廚師來煮菜就要修改原本聘請廚師的邏輯
         this.chef = new James();
     }
